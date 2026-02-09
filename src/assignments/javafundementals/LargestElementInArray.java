@@ -2,7 +2,7 @@ package assignments.javafundementals;
 
 public class LargestElementInArray {
 
-    static int[] numbers = {10, 5, 20, 8, 15};
+    static int[] numbers = {10, 5, 15, 8, 20};
 
         public static void main(String [] args)
     {
